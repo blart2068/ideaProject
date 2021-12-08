@@ -1,36 +1,49 @@
 # ideaProject
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+####Introduction
 
-#### Software Architecture
+{* * learning, development and use of Blart project.... * *}
+
+####Software architecture
+
 Software architecture description
 
-#### Installation
+####Installation tutorial
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Direct installation
 
-#### Instructions
+2. Just do what you want
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+3. If the project can run, don't worry about how it runs
 
-#### Contribution
+####Instructions for use
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1. Use as needed
 
+2. Use it as you like
 
-#### Gitee Feature
+3. Just use it
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+####Participation contribution
+
+1. Think for yourself
+
+2. Online pickpocketing
+
+3. Various hybrids
+
+4. Imagination out of thin air
+
+####Stunt
+
+1. Use Readme\_ 30. MD to support different languages, such as readme\_ en.md, Readme\_ zh.md
+
+2. Gitee official blog [blog. Gitee. Com]（ https://blog.gitee.com )
+
+3. You can[ https://gitee.com/explore ]( https://gitee.com/explore ）Use this address to learn about excellent open source projects on gitee
+
+4. [GVP]( https://gitee.com/gvp ）The full name is gitee's most valuable open source project and an excellent open source project comprehensively evaluated
+
+5. Manual officially provided by gitee[ https://gitee.com/help ]( https://gitee.com/help )
+
+6. Gitee cover character is a column used to show the style of gitee members[ https://gitee.com/gitee-stars/ ]( https://gitee.com/gitee-stars/ )
